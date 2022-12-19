@@ -1,8 +1,7 @@
 <img src = 'https://upload.wikinedia.org/wikipedia/commons/7/77/Logo_HEC_Lausanne.png' width="200">
 
 # **Data Mining & Machine Learning 2022 Project**
-## Topic: Detecting the difficulty level of French texts
-Given a text in French, can you predict its difficulty level (A1, A2, B1, B2, C1, C2)?
+## *Topic: Detecting the difficulty level of French texts* 
 
 ## Group: UNIL_OMEGA 
 
