@@ -1,14 +1,13 @@
 # **Data Mining & Machine Learning 2022 Project**
 
 ## Group: UNIL_OMEGA 
- Table of content:
 
-<!--📂 TABLE OF CONTENTS --> 
+<!--TABLE OF CONTENTS --> 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>📂Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#authors">Authors</a>
       <ul>
         <li><a href="#functions">Functions</a></li>
       </ul>
