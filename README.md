@@ -1,9 +1,8 @@
 <img src = 'https://upload.wikinedia.org/wikipedia/commons/7/77/Logo_HEC_Lausanne.png' width="200">
 
 # **Data Mining & Machine Learning 2022 Project**
-### *Topic: Detecting the difficulty level of French texts* 
-
 ## Group: UNIL_OMEGA 
+### *Topic: Detecting the difficulty level of French texts* 
 
 <!--TABLE OF CONTENTS --> 
 <details>
