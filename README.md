@@ -2,7 +2,7 @@
 
 # **Data Mining & Machine Learning 2022 Project**
 ## Group: UNIL_OMEGA 
-### *Topic: Detecting the difficulty level of French texts* 
+### *Detecting the difficulty level of French texts* 
 
 <!--TABLE OF CONTENTS --> 
 <details>
