@@ -42,7 +42,7 @@ This project uses two datasets: `training_data` and `unlabelled_test_data`. The 
 ## Results 
 
 #### Without data cleaning
-||Logistic regression|KNN|Decision Tree|Random Forest|
+||Logistic Regression|KNN|Decision Tree|Random Forest|
 | :---: | :---: | :---: | :---: | :---: | 
 |Precision|||||
 |Recall|||||
