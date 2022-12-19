@@ -43,6 +43,12 @@ The purpose of this project is to build a model that predicts the level of diffi
 |Accuracy |||||
 
 #### With data cleaning
+||XXXX|
+| :---: |:---: |
+|Precision||
+|Recall||
+|F1-score||
+|Accuracy ||
 
 ## 🎥 Video 
 
