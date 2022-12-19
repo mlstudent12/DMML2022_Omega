@@ -7,8 +7,8 @@
   <summary>📂Table of Contents</summary>
   <ol>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#authors">Authors</a></li>
+    <li><a href="#about-the-project>About the project</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
