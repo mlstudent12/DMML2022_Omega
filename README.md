@@ -8,11 +8,16 @@
   <ol>
     </li>
     <li><a href="#authors">Authors</a></li>
-    <li><a href="#about-the-project>About the project</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#about-the-project">About the project</a></li>
+    <li><a href="#data">Data</a></li>
+    <li><a href="#results">Results</a></li>
+        <ul>
+        <li><a href="#without-data-cleaning">Without data cleaning</a></li>
+      </ul>
+      <ul>
+        <li><a href="#with-data-cleaning">With data cleaning</a></li>
+      </ul>
+    <li><a href="#video">VVideo</a></li>
   </ol>
 </details>
 
