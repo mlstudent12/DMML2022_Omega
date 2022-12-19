@@ -30,7 +30,7 @@ The purpose of this project is to build a model that predicts the level of diffi
 ### Troubleshouting
 
 🎥 Link to our vieo
-
+📂 Table of content:
 <!-- TABLE OF CONTENTS --> 
 <details>
   <summary>Table of Contents</summary>
