@@ -1,7 +1,7 @@
 # **Data Mining & Machine Learning 2022 Project**
 
 ## Group: UNIL_OMEGA 
-
+##
 <!--TABLE OF CONTENTS --> 
 <details>
   <summary>📂Table of Contents</summary>
