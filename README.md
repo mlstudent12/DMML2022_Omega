@@ -32,7 +32,7 @@ The purpose of this project is to build a model that predicts the level of diffi
 
 ## Results 
 
-### Without data cleaning
+#### Without data cleaning
 ||Logistic regression|KNN|Decision Tree|Random Forest|
 | :---: | :---: | :---: | :---: | :---: | 
 |Precision|||||
@@ -40,9 +40,9 @@ The purpose of this project is to build a model that predicts the level of diffi
 |F1-score|||||
 |Accuracy |||||
 
-### With data cleaning
+#### With data cleaning
 
-### Video 🎥
+## Video 🎥
 
 
 
