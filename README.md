@@ -2,7 +2,7 @@
 
 ## Group: UNIL_OMEGA 
 
-### *italicized*Authors
+### _italicized Authors_
 🐉Sophie Kern: sophie.kern@unil.ch  
 🦖Guillaume Emery: guillaume.emery@unil.ch
 
