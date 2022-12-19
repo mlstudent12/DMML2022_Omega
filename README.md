@@ -17,7 +17,7 @@
       <ul>
         <li><a href="#with-data-cleaning">With data cleaning</a></li>
       </ul>
-    <li><a href="#video">VVideo</a></li>
+    <li><a href="#video">Video</a></li>
   </ol>
 </details>
 
