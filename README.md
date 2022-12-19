@@ -60,3 +60,5 @@ The purpose of this project is to build a model that predicts the level of diffi
   </ol>
 </details>
 
+
+what we should put in the readme file (.md): mention team name, participants, brief description of the project, approach, summary of results table and link to the explainatory video (see below).
