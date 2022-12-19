@@ -32,7 +32,7 @@
 🦖Guillaume Emery: guillaume.emery@unil.ch
 
 ## About the project
-As part of our Master's in Information Systems, we participated in a [Kaggle competition](https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022). The objective of this project was to build a model that could predict the difficulty level of written texts in French (A1, A2, B1, B2, C1, C2). The model could potentially be used in a recommendation system to recommend texts, such as recent news articles, that are suitable for a person's language level."
+As part of our Master's in Information Systems, we participated in a [Kaggle competition](https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022). The objective of this project was to build a model that could predict the difficulty level of written texts in French (A1, A2, B1, B2, C1, C2). The model could potentially be used in a recommendation system to recommend texts, such as recent news articles, that are suitable for a person's language level.
 
 ## Data
 This project uses two datasets: `training_data` and `unlabelled_test_data`. The `training_data` has three features: id, sentence, and difficulty, wheras the `unlabelled_test_data` has only two features: id and sentence. Our goal is to use several models to predict the difficulty level for the `unlabelled_test_data`, aiming for the highest accuracy score possible.
