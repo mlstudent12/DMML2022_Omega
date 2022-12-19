@@ -31,6 +31,7 @@ The purpose of this project is to build a model that predicts the level of diffi
 
 🎥 Link to our vieo
 📂 Table of content:
+Bien checker les consignes sur collab et Kaggle!
 <!-- TABLE OF CONTENTS --> 
 <details>
   <summary>Table of Contents</summary>
