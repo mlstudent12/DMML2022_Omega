@@ -12,12 +12,16 @@
     <li><a href="#authors">Authors</a></li>
     <li><a href="#about-the-project">About the project</a></li>
     <li><a href="#data">Data</a></li>
+    <li><a href="#methodology">Methodology</a></li>
     <li><a href="#results">Results</a></li>
         <ul>
         <li><a href="#without-data-cleaning">Without data cleaning</a></li>
       </ul>
       <ul>
         <li><a href="#with-data-cleaning">With data cleaning</a></li>
+      </ul>
+        <ul>
+        <li><a href="#interpretation">Interpretation</a></li>
       </ul>
     <li><a href="#video">Video</a></li>
   </ol>
@@ -31,6 +35,8 @@
 The purpose of this project is to build a model that predicts the level of difficulty of a written text in French (A1, A2, B1, B2, C1, C2). It could then be used for instance in a recommendation system to recommend texts: recent news articles that are appropriate for someone’s language level.
 
 ## Data
+
+## Methodology
 
 ## Results 
 
@@ -50,20 +56,11 @@ The purpose of this project is to build a model that predicts the level of diffi
 |F1-score||
 |Accuracy ||
 
+#### Interpretation
+
 ## 🎥 Video 
 
 
 
-
-Table of Content 
-About the project
-Getting started
-Usage
-Deployment
-Troubleshouting
-
-
-
-
 Bien checker les consignes sur Kaggle
-what we should put in the readme file (.md): mention team name, participants, brief description of the project, approach, summary of results table and link to the explainatory video (see below). The data, methodology + video
+
