@@ -62,4 +62,4 @@ Bien checker les consignes sur collab et Kaggle!
 </details>
 
 
-what we should put in the readme file (.md): mention team name, participants, brief description of the project, approach, summary of results table and link to the explainatory video (see below).
+what we should put in the readme file (.md): mention team name, participants, brief description of the project, approach, summary of results table and link to the explainatory video (see below). The data, methodology + video
