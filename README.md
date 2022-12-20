@@ -38,7 +38,22 @@ As part of our Master's in Information Systems & Digital Innovation, we particip
 This project uses two datasets: `training_data` and `unlabelled_test_data`. The `training_data` has 3 features: id, sentence, and difficulty, wheras the `unlabelled_test_data` has only 2 features: id and sentence. Our goal is to use several models to predict the difficulty level for the `unlabelled_test_data`, aiming for the highest accuracy score possible.
 
 ## Methodology
-
+1. We imported the packages we needed
+2. We loaded the data (`training_data` and `unlabelled_test_data`)
+3. We had a look at them 
+   - infomation on both data set
+   - number of observations by difficulty level
+   - basline
+4. We prepared the data for classification 
+   - set random side
+   - split 80-20 the training data into a train and test set using specific parameters 
+   - set a Tfidf vectorizer
+5. We defined methods to generate and test the models
+   - *evaluation()* which computes & prints the evaluation scores (accuracy, precision, recall, f1 score) on the test set and plots & display the confusion matrix
+   - *pipeline()* which creates a pipeline usinf Tfidf vectorizer & a classifier
+   - *fit_and_predict()* which fits the model on the training set and make predictions
+6-9.Train 4 models (withoud data cleaning)
+10. Generate a model (with data cleaining) with a higher accuracy
 ## Results 
 
 #### Without data cleaning
