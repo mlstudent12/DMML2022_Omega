@@ -6,7 +6,7 @@
 
 <!--TABLE OF CONTENTS --> 
 <details>
-  <summary>📂Table of Contents</summary>
+  <summary>📂Table of contents</summary>
   <ol>
     </li>
     <li><a href="#authors">Authors</a></li>
