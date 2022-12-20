@@ -63,7 +63,7 @@ We..
 ## Results 
 
 #### Without data cleaning
-||Logistic Regression|KNN|Decision Tree|Random Forest|
+||Logistic Regression|KNN|Decision Tree|Random Forests|
 | :---: | :---: | :---: | :---: | :---: | 
 |Precision|||||
 |Recall|||||
