@@ -46,14 +46,19 @@ This project uses two datasets: `training_data` and `unlabelled_test_data`. The 
    - basline
 4. We prepared the data for classification 
    - set random side
-   - split 80-20 the training data into a train and test set using specific parameters 
+   - split the training data into a train and test set using specific parameters 
    - set a Tfidf vectorizer
 5. We defined methods to generate and test the models
    - *evaluation()* which computes & prints the evaluation scores (accuracy, precision, recall, f1 score) on the test set and plots & display the confusion matrix
    - *pipeline()* which creates a pipeline usinf Tfidf vectorizer & a classifier
    - *fit_and_predict()* which fits the model on the training set and make predictions
-6-9.Train 4 models (withoud data cleaning)
-10. Generate a model (with data cleaining) with a higher accuracy
+6. Trained and made prediction on 4 models (withoud data cleaning)
+   - logistic regression
+   - knn
+   - decision tree classifier
+   - random forests classifier 
+10. Generated a model (with data cleaining) with a higher accuracy
+
 ## Results 
 
 #### Without data cleaning
