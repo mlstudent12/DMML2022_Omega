@@ -38,13 +38,14 @@ As part of our Master's in Information Systems & Digital Innovation, we particip
 This project uses two datasets: `training_data` and `unlabelled_test_data`. The `training_data` has 3 features: id, sentence, and difficulty, wheras the `unlabelled_test_data` has only 2 features: id and sentence. Our goal is to use several models to predict the difficulty level for the `unlabelled_test_data`, aiming for the highest accuracy score possible.
 
 ## Methodology
-1. We imported the packages we needed
-2. We loaded the data (`training_data` and `unlabelled_test_data`)
-3. We had a look at them 
+We..
+1. Imported the packages needed
+2. Loaded the data (`training_data` and `unlabelled_test_data`)
+3. Had a look at them 
    - infomation on both data set
    - number of observations by difficulty level
    - basline
-4. We prepared the data for classification 
+4. Prepared the data for classification 
    - set random side
    - split the training data into a train and test set using specific parameters 
    - set a Tfidf vectorizer
