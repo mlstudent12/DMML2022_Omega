@@ -37,15 +37,15 @@ This project uses two datasets: `training_data` and `unlabelled_test_data`. The 
 ## Methodology
 
 The code is composed of 2 files: 
-•	#1 file:  with the 4 models asked without data cleaning (Logistic Regression, KNN, Decision Tree Classifier, Random Forests Classifier) 
-•	#2 file: with the model which gave us the best accuracy on Kaggle (Bert)
+*	#1 file:  with the 4 models asked without data cleaning (Logistic Regression, KNN, Decision Tree Classifier, Random Forests Classifier) 
+*	#2 file: with the model which gave us the best accuracy on Kaggle (Bert)
 In each file we: 
-• Imported the package needed
-• Loaded the data 
-• Prepared the data for classification
-• Defined appropriated methods to generate, predict and test the models
-• Created and trained the models
-• Evaluate the models
+* Imported the package needed
+* Loaded the data 
+* Prepared the data for classification
+* Defined appropriated methods to generate, predict and test the models
+* Created and trained the models
+* Evaluate the models
 
 To discover more about what we did, click on the link of our video below! 
 
