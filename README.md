@@ -20,9 +20,6 @@
       <ul>
         <li><a href="#with-data-cleaning">With data cleaning</a></li>
       </ul>
-        <ul>
-        <li><a href="#interpretation">Interpretation</a></li>
-      </ul>
     <li><a href="#video">Video</a></li>
   </ol>
 </details>
@@ -78,11 +75,7 @@ We..
 |F1-score||
 |Accuracy ||
 
-#### Interpretation
-
 ## Video 🎥 
 
 
-
-Bien checker les consignes sur Kaggle
 
