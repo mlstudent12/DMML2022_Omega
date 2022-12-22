@@ -68,12 +68,12 @@ We..
 |Accuracy |0.4667|0.3187|0.3677|0.3000|0.3219|0.4333|
 
 #### Model we found with the best accuracy score
-||XXXX|
+||Bert|
 | :---: |:---: |
-|Precision||
-|Recall||
-|F1-score||
-|Accuracy ||
+|Precision|0.6984|
+|Recall|0.4211|
+|F1-score|0.5223|
+|Accuracy |0.5945|
 
 ## Video 🎥 
 
