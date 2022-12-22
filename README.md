@@ -67,7 +67,7 @@ We..
 |F1-score|0.4640|0.3022|0.3571|0.2980|0.3081|0.4211|
 |Accuracy |0.4667|0.3187|0.3677|0.3000|0.3219|0.4333|
 
-#### Model we found with the best accuracy score
+#### The model that gave us the best accuracy on Kaggle 
 ||Bert|
 | :---: |:---: |
 |Precision|0.6984|
