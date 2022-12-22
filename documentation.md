@@ -8,6 +8,12 @@
 ## Bibliographie
 In this part, you can see websites that where used in order to deliver our work.
 
-Our best model is inspired by this article about text classification using Bert and tensorflow librairy
-https://towardsdatascience.com/multi-label-text-classification-using-bert-and-tensorflow-d2e88d8f488d
+|Use|Website|
+| :---: |:---: |
+|Inpsiration of our best model|https://towardsdatascience.com/multi-label-text-classification-using-bert-and-tensorflow-d2e88d8f488d|
+|Recall|0.4211|
+|F1-score|0.5223|
+|Accuracy |0.5945|
+
+
 
