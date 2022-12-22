@@ -35,27 +35,20 @@ As part of our Master's in Information Systems & Digital Innovation, we particip
 This project uses two datasets: `training_data` and `unlabelled_test_data`. The `training_data` has 3 features: id, sentence, and difficulty, wheras the `unlabelled_test_data` has only 2 features: id and sentence. Our goal is to use several models to predict the difficulty level for the `unlabelled_test_data`, aiming for the highest accuracy score possible.
 
 ## Methodology
-We..
-1. Imported the packages needed
-2. Loaded the data (`training_data` and `unlabelled_test_data`)
-3. Had a look at them 
-   - infomation on both data set
-   - number of observations by difficulty level
-   - basline
-4. Prepared the data for classification 
-   - set random side
-   - split the training data into a train and test set using specific parameters 
-   - set a Tfidf vectorizer
-5. We defined methods to generate and test the models
-   - *evaluation()* which computes & prints the evaluation scores (accuracy, precision, recall, f1 score) on the test set and plots & display the confusion matrix
-   - *pipeline()* which creates a pipeline usinf Tfidf vectorizer & a classifier
-   - *fit_and_predict()* which fits the model on the training set and make predictions
-6. Trained and made predictions on 4 models (without data cleaning)
-   - logistic regression
-   - knn
-   - decision tree classifier
-   - random forests classifier 
-10. Generated a model (with data cleaining) with a higher accuracy
+
+The code is composed of 2 files: 
+•	#1 file:  with the 4 models asked without data cleaning (Logistic Regression, KNN, Decision Tree Classifier, Random Forests Classifier) 
+•	#2 file: with the model which gave us the best accuracy on Kaggle (Bert)
+In each file we: 
+• Imported the package needed
+• Loaded the data 
+• Prepared the data for classification
+• Defined appropriated methods to generate, predict and test the models
+• Created and trained the models
+• Evaluate the models
+
+To discover more about what we did, click on the link of our video below! 
+
 
 ## Results 
 
