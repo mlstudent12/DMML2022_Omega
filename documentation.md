@@ -12,6 +12,9 @@ In this part, you can see websites that where used in order to deliver our work.
 | :---: |:---: |
 |Inpsiration of our best model|https://towardsdatascience.com/multi-label-text-classification-using-bert-and-tensorflow-d2e88d8f488d|
 |F1_score for our Bert model|https://aakashgoel12.medium.com/how-to-add-user-defined-function-get-f1-score-in-keras-metrics-3013f979ce0d|
+|Keras librairy used for the Bert model|https://keras.io|
+|Tensorflow librairy used for the Bert model|https://www.tensorflow.org|
+
 
 
 
