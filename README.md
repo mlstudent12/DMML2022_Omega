@@ -14,11 +14,6 @@
     <li><a href="#data">Data</a></li>
     <li><a href="#methodology">Methodology</a></li>
     <li><a href="#results">Results</a></li>
-        <ul>
-        <li><a href="#without-data-cleaning">Without data cleaning</a></li>
-      </ul>
-      <ul>
-        <li><a href="#with-data-cleaning">With data cleaning</a></li>
       </ul>
     <li><a href="#video">Video</a></li>
   </ol>
