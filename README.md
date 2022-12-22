@@ -39,6 +39,7 @@ This project uses two datasets: `training_data` and `unlabelled_test_data`. The 
 The code is composed of 2 files: 
 *	#1 file:  with the 4 models asked without data cleaning (Logistic Regression, KNN, Decision Tree Classifier, Random Forests Classifier) 
 *	#2 file: with the model which gave us the best accuracy on Kaggle (Bert)
+###
 In each file we: 
 * Imported the package needed
 * Loaded the data 
