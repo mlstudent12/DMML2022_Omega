@@ -62,7 +62,7 @@ We..
 #### Models asked without data cleaning
 ||Logistic Regression|KNN|KNN improved|Decision Tree|Decision Tree immproved|Random Forests|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Precision|0.4656|0.4030|0.4242|0.3018|0.3219|0.4439|
+|Precision|0.4656|0.4030|0.4242|0.3018|0.3249|0.4439|
 |Recall|0.4667|0.3187|0.3677|0.3000|0.3219|0.4333|
 |F1-score|0.4640|0.3022|0.3571|0.2980|0.3081|0.4211|
 |Accuracy |0.4667|0.3187|0.3677|0.3000|0.3219|0.4333|
