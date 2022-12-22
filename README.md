@@ -60,12 +60,12 @@ We..
 ## Results 
 
 #### Without data cleaning
-||Logistic Regression|KNN|Decision Tree|Random Forests|
-| :---: | :---: | :---: | :---: | :---: | 
-|Precision|||||
-|Recall|||||
-|F1-score|||||
-|Accuracy |||||
+||Logistic Regression|KNN|KNN improved|Decision Tree|Decision Tree immproved|Random Forests|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Precision|0.4656|0.4030|||||
+|Recall|0.4667|0.3187|||||
+|F1-score|0.4640|0.3022|||||
+|Accuracy |0.4667|0.3187|||||
 
 #### With data cleaning
 ||XXXX|
